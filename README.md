@@ -36,60 +36,22 @@
 * Atlassian https://developer.atlassian.com/blog/
 * Autodesk http://cloudengineering.autodesk.com/blog/
 
-#### B companies
+#### B companies (approved)
 * Babbel https://bytes.babbel.com/en/
-* Backtrace https://backtrace.io/blog/
 * Badoo https://techblog.badoo.com/
-* Baidu Research http://research.baidu.com/category/baidutechblog/baidu-research-technology/
-* Bandcamp https://bandcamptech.wordpress.com/
 * Base Lab https://lab.getbase.com/category/engineering/
-* Bazaarvoice https://blog.developer.bazaarvoice.com/
 * Benchling http://benchling.engineering/
 * BenefitFocus https://www.benefitfocus.com/blogs/design-engineering
-* Bigcommerce http://www.bigeng.io/
-* Binary Studio https://binary-studio.com/blog/
-* Bitly http://word.bitly.com/
-* BitTorrent http://engineering.bittorrent.com/
-* BlaBlaCar http://blablatech.com/blog/
-* BlackRock http://rockthecode.io/
 * Blogfoster http://engineering.blogfoster.com/
-* BloomReach http://engineering.bloomreach.com/
-* Booking.com https://blog.booking.com/
-* Box https://www.box.com/blog/engineering/
-* Boxever http://www.boxever.com/blog/
-* Brandwatch http://engineering.brandwatch.com/
-* Buzzfeed https://www.buzzfeed.com/techblog
 
-#### C companies
-* Canva https://engineering.canva.com
+#### C companies (approved)
 * Capgemini https://capgemini.github.io/
 * CenturyLink https://www.ctl.io/developers/blog
-* Cerner http://engineering.cerner.com/
-* Chaps https://blog.chaps.io/
-* Chartbeat http://engineering.chartbeat.com/
-* Chef https://blog.chef.io
-* Clever https://engineering.clever.com/
-* CleverTap https://blog.clevertap.com/category/engineering/
-* Cloudera https://blog.cloudera.com/
 * Cloudflare https://blog.cloudflare.com/
-* ClusterHQ https://clusterhq.com/blog/
-* CockroachDB https://www.cockroachlabs.com/blog/
-* Code Better http://codebetter.com/
-* Code School https://www.codeschool.com/blog/categories/development/
 * Codelitt https://www.codelitt.com/blog/
 * Codemancers http://crypt.codemancers.com/
-* Codementor https://www.codementor.io/tutorial
-* CodeName One http://www.codenameone.com/blog.html
 * Codeship https://blog.codeship.com/
-* Collective Idea https://collectiveidea.com/blog
-* Commercetools https://techblog.commercetools.com/
-* Condé Nast https://engineering.condenast.io/
-* Confluent https://www.confluent.io/blog
-* Convox https://convox.com/blog
-* Coolblue http://devblog.coolblue.nl/
-* Criteo http://engineering.criteolabs.com/
 * Crowdfire https://crowdfire.engineering/
-* Curalate http://engineering.curalate.com/
 
 #### D companies
 * Dailymotion http://engineering.dailymotion.com/
