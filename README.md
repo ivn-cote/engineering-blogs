@@ -26,31 +26,15 @@
 #### \# companies
 * 500px https://developers.500px.com/
 * 8th Light https://8thlight.com/blog/
-* 99designs https://99designs.com/tech-blog/
 
-#### A companies
-* AdRoll http://tech.adroll.com/blog/
-* Airbrake https://airbrake.io/blog/
-* AirPair https://www.airpair.com/software-experts
-* Advanced Web Machinery https://advancedweb.hu/
-* Adzerk https://adzerk.com/tech/
+#### A companies (approved)
 * Airbnb https://medium.com/airbnb-engineering
 * Airtame https://airtame.engineering
-* Algolia https://blog.algolia.com/
-* Allegro.tech http://allegro.tech
-* AlphaSights http://engineering-blog.alphasights.com/
 * Appnexus https://techblog.appnexus.com/
-* Arkency http://blog.arkency.com/
 * Artsy http://artsy.github.io/
 * Asana https://blog.asana.com/category/eng/
-* Asos http://techblog.asos.com/
 * Atlassian https://developer.atlassian.com/blog/
-* Atomic Object https://spin.atomicobject.com/
-* Auth0 https://auth0.com/blog/
 * Autodesk http://cloudengineering.autodesk.com/blog/
-* Avenue Code http://blog.avenuecode.com/
-* AWS https://aws.amazon.com/blogs/aws/
-* Azavea https://www.azavea.com/blog/category/software-development/
 
 #### B companies
 * Babbel https://bytes.babbel.com/en/
@@ -173,24 +157,13 @@
 * Guardian https://www.theguardian.com/info/developer-blog
 * Gusto http://engineering.gusto.com/
 
-#### H companies
-* HackerEarth http://engineering.hackerearth.com/
-* Haptik http://haptik.ai/tech/
-* Harry's http://engineering.harrys.com/
+#### H companies (approved)
 * Hashrocket https://hashrocket.com/blog
 * Haus https://engineering.haus.com
 * Heap https://heap.engineering/
 * Heroku https://blog.heroku.com/engineering
 * HireArt http://code.hireart.com/
-* Holiday Extras http://hungrygeek.holidayextras.co.uk/
 * HomeAway https://tech.homeaway.com/
-* Honeybadger http://blog.honeybadger.io/
-* Hootsuite http://code.hootsuite.com/
-* Hostinger https://www.hostinger.com/blog/engineering/
-* Hoteltonight http://engineering.hoteltonight.com/
-* Housing.com https://medium.com/engineering-housing
-* HubSpot http://product.hubspot.com/blog/topic/engineering
-* Huddle http://tldr.huddle.com/
 
 #### I companies
 * IBM developerWorks https://developer.ibm.com/dwblog/
