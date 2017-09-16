@@ -53,18 +53,11 @@
 * Codeship https://blog.codeship.com/
 * Crowdfire https://crowdfire.engineering/
 
-#### D companies
-* Dailymotion http://engineering.dailymotion.com/
-* Data Artisans https://data-artisans.com/blog/
-* Databricks https://databricks.com/blog
+#### D companies (approved)
 * DataFox http://eng.datafox.co/
 * Deezer https://deezer.io/
-* DeferPanic https://deferpanic.com/blog/
-* Deis https://deis.com/blog
 * Deliveroo https://deliveroo.engineering/
-* DigitalOcean https://www.digitalocean.com/community/tutorials
 * Discord https://blog.discordapp.com/
-* Docker https://blog.docker.com/category/engineering/
 * Drivy https://drivy.engineering/
 * Dropbox https://blogs.dropbox.com/tech/
 
@@ -82,20 +75,10 @@
 * Evil Martians https://evilmartians.com/chronicles/
 * Expedia https://techblog.expedia.com/
 
-#### F companies
+#### F companies (approved)
 * Facebook https://code.facebook.com/posts/
-* Facebook AI Research https://research.facebook.com/blog/ai/
-* Faraday http://blog.faraday.io/
-* Fiftythree http://making.fiftythree.com/
 * Findmypast http://tech.findmypast.com/
-* Finn.no http://tech.finn.no/
-* Firmafon https://dev.firmafon.dk/blog/
-* Flickr http://code.flickr.net/
-* Flipboard http://engineering.flipboard.com/
-* Flipkart http://tech-blog.flipkart.net/
 * Foursquare https://engineering.foursquare.com/
-* Funding Circle https://engineering.fundingcircle.com/
-* Future Processing https://www.future-processing.pl/technical-blog/
 
 #### G companies
 * Galois https://galois.com/blog/
@@ -467,26 +450,16 @@
 * Filippo Valsorda https://blog.filippo.io/
 * Freek Van der Herten https://murze.be/
 
-#### G individuals
+#### G individuals (approved)
 * Gleb Bahmutov https://glebbahmutov.com/blog/
-* Graham King https://www.darkcoding.net/
-* Grzegorz Gajos http://ggajos.com/
-* Guido van Rossum http://neopythonic.blogspot.com/
 * Guilherme Rodrigues https://firstdoit.com/
 
-#### H individuals
-* High Scalability http://highscalability.com/
-* Huon Wilson http://huonw.github.io/
+#### H individuals (approved)
 * Hypriot http://blog.hypriot.com/
 
-#### I individuals
-* Ian Hummel https://themodernlife.github.io/
+#### I individuals (approved)
 * Ian Sommerville http://iansommerville.com/systems-software-and-technology/
 * Idontgetoutmuch's Weblog https://idontgetoutmuch.wordpress.com/
-* Ievgen Kuzminov http://stdout.in/
-* Ilija Eftimov http://ieftimov.com/
-* Ilya Grigorik https://www.igvita.com/
-* Ivan Ursul https://ivanursul.com/
 
 #### J individuals
 * Jacopo Tarantino https://jack.ofspades.com/
@@ -518,17 +491,9 @@
 * Juri Strumpflohner https://juristr.com/blog/
 
 #### K individuals
-* K. Harrison https://useyourloaf.com/
-* Kevin Burke https://kev.inburke.com/
-* Kirill Shevchenko https://medium.com/@kirill_shevch
-* Kyle Kingsbury https://aphyr.com/
 
-#### L individuals
+#### L individuals (approved)
 * Lambda the Ultimate http://lambda-the-ultimate.org/
-* Larry Land https://lg.io/
-* Lea Verou http://lea.verou.me/
-* Lerner Consulting Blog http://blog.lerner.co.il/
-* Life Plus Linux http://lifepluslinux.blogspot.in/
 * Luciano Mammino https://loige.co/
 
 #### M individuals
