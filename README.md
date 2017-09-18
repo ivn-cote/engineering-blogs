@@ -80,27 +80,11 @@
 * Findmypast http://tech.findmypast.com/
 * Foursquare https://engineering.foursquare.com/
 
-#### G companies
-* Galois https://galois.com/blog/
-* GameChanger http://tech.gc.com/
-* Gilt http://tech.gilt.com
+#### G companies (approved)
 * GitHub https://githubengineering.com/
-* GitHub Old https://github.com/blog/category/engineering
-* Gnip https://engineering.gnip.com/
-* Go Programming Language https://blog.golang.org/
-* GoCardless https://gocardless.com/blog/tagged/engineering/
-* Good Eggs https://team.goodeggs.com
-* Google Online Security https://security.googleblog.com/
-* Google Research https://research.googleblog.com/
-* GoSquared https://engineering.gosquared.com/
-* Grab http://engineering.grab.com/
-* Grafana https://grafana.com/blog/
 * Grammarly https://tech.grammarly.com/blog/index.html
 * Grofers https://lambda.grofers.com/
-* Grouper http://blog.joingrouper.com/
-* Groupon https://engineering.groupon.com/
 * Guardian https://www.theguardian.com/info/developer-blog
-* Gusto http://engineering.gusto.com/
 
 #### H companies (approved)
 * Hashrocket https://hashrocket.com/blog
@@ -110,20 +94,12 @@
 * HireArt http://code.hireart.com/
 * HomeAway https://tech.homeaway.com/
 
-#### I companies
+#### I companies (approved)
 * IBM developerWorks https://developer.ibm.com/dwblog/
-* IFTTT http://engineering.ifttt.com/
-* IMVU https://engineering.imvu.com/
 * Imaginea https://blog.imaginea.com/
-* Imgur http://blog.imgur.com/category/eng/
 * Inaka http://inaka.net/blog/
-* Indeed http://engineering.indeedblog.com/blog/
-* Instacart https://tech.instacart.com/
-* Instagram https://engineering.instagram.com/
-* Intel https://software.intel.com/en-us/blogs/
 * Intent HQ http://engineering.intenthq.com/
 * Intent Media http://intentmedia.com/blog/
-* Intercom https://engineering.intercom.io/
 * InVision http://engineering.invisionapp.com/
 
 #### J companies
@@ -133,48 +109,17 @@
 * Just Eat https://tech.just-eat.com/
 * Jet Technology https://tech.jet.com/
 
-#### K companies
+#### K companies (approved)
 * Khan Academy http://engineering.khanacademy.org
-* Kickstarter https://www.kickstarter.com/backing-and-hacking
-* King https://techblog.king.com/
-* Kinvolk https://kinvolk.io/blog/
-* Kogan.com https://devblog.kogan.com/
 
-#### L companies
-* Laterooms http://engineering.laterooms.com/
+#### L companies (approved)
 * LendingHome https://tech.lendinghome.com/
-* LINE https://engineering.linecorp.com/en/blog
-* Linkedcare http://blog.linkedcare.com/
-* LinkedIn https://engineering.linkedin.com/blog
-* Linode https://engineering.linode.com/
-* LiveChat https://developers.livechatinc.com/blog/
-* LiveRamp https://liveramp.com/engineering/
-* LivingSocial https://techblog.livingsocial.com/
 * Localytics http://eng.localytics.com/
-* Lookout http://hackers.lookout.com/
-* Lyft https://eng.lyft.com/
 
-#### M companies
-* Machinalis http://www.machinalis.com/blog/
+#### M companies (approved)
 * Made Tech https://www.madetech.com/blog
-* Mallow Tech http://blog.mallow-tech.com/
-* MailChimp https://devs.mailchimp.com/blog/
-* Mandrill http://blog.mandrill.com/
-* Medallia http://engineering.medallia.com/blog/
-* Medium https://medium.com/medium-eng
-* MemSQL http://blog.memsql.com/content/engineering/
-* Microsoft Python Engineering https://blogs.msdn.microsoft.com/pythonengineering/
-* Mixmax https://mixmax.com/blog/tag/engineering
-* Mixpanel https://code.mixpanel.com/
-* MoneyBird http://engineering.moneybird.com/
-* MongoDB https://engineering.mongodb.com/
 * Monsanto http://engineering.monsanto.com/
 * Moove-it https://blog.moove-it.com/
-* Mozilla Automation Team https://planet.mozilla.org/ateam/
-* Mozilla Hacks https://hacks.mozilla.org/
-* Mozilla Release Engineering https://planet.mozilla.org/releng/
-* Myntra https://medium.com/myntra-engineering
-* Myntra Data Science http://sartorialscience.myntrablogs.com/
 
 #### N companies
 * Netflix https://medium.com/netflix-techblog
