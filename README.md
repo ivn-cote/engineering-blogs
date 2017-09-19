@@ -23,7 +23,7 @@
 
 ### Companies
 
-#### \# companies
+#### \# companies (approved)
 * 500px https://developers.500px.com/
 * 8th Light https://8thlight.com/blog/
 
@@ -121,13 +121,9 @@
 * Monsanto http://engineering.monsanto.com/
 * Moove-it https://blog.moove-it.com/
 
-#### N companies
+#### N companies (approved)
 * Netflix https://medium.com/netflix-techblog
 * New York Times https://open.blogs.nytimes.com
-* Nextdoor https://engblog.nextdoor.com/
-* Nordic APIs http://nordicapis.com/blog/
-* Novoda https://www.novoda.com/blog/
-* NPR Apps http://blog.apps.npr.org/
 
 #### O companies
 * OCTO Technology https://blog.octo.com/en/
@@ -159,8 +155,8 @@
 * PubNub: https://www.pubnub.com/blog/
 * PullReview http://blog.8thcolor.com/
 
-#### Q companies
-* Quora https://engineering.quora.com/
+#### Q companies (approved)
+* Qubit https://medium.com/qubit-engineering
 
 #### R companies
 * Raizlabs https://www.raizlabs.com/dev/
@@ -178,48 +174,20 @@
 * Robert Elder Software http://blog.robertelder.org/
 * RoseHosting https://www.rosehosting.com/blog/
 
-#### S companies
-* Salesforce https://developer.salesforce.com/blogs/engineering/
-* Schibsted Tech Polska http://www.schibsted.pl/blog/
-* Scrunch https://tech.scrunch.com/blog/
-* Secret Escapes http://tech.secretescapes.com/
+#### S companies (approved)
 * Segment https://segment.com/blog/categories/engineering/
 * Semantics3 https://engineering.semantics3.com
 * Semaphore CI Community https://semaphoreci.com/community
-* Semaphore CI Engineering http://semaphoreci.com/blog/tags/engineering.html
-* Sensible http://blog.sensible.io/
 * Settled https://engineroom.settled.co.uk/
-* Shape Security http://engineering.shapesecurity.com/
-* Sharethis https://www.sharethis.com/category/engineering/
 * Shopify https://engineering.shopify.com
-* ShowMax https://tech.showmax.com
-* Shyp https://medium.com/shyp-engineering
-* Sift Science https://blog.siftscience.com/?category=Engineering
-* Simple https://www.simple.com/engineering
-* SitePoint https://sitepoint.com
 * Sky Betting & Gaming http://engineering.skybettingandgaming.com/
-* Skyscanner http://codevoyagers.com/
 * Slack https://slack.engineering/
-* SlideShare https://engineering.linkedin.com/blog/topic/slideshare
-* Small Improvements https://tech.small-improvements.com/
-* SmartRecruiters https://up.smartrecruiters.com
 * Snapdeal http://engineering.snapdeal.com/category/code/
-* Socialcast http://blog.socialcast.com/engineering/
-* Songkick https://devblog.songkick.com/
 * Soundcloud https://developers.soundcloud.com/blog/
-* SourceClear https://blog.sourceclear.com/
-* Speedledger http://engineering.speedledger.com/
 * Spotify https://labs.spotify.com/
 * Sqreen https://blog.sqreen.io/
-* Square https://corner.squareup.com/
-* Squarespace https://engineering.squarespace.com/
 * Stack Overflow https://stackoverflow.blog/engineering/
-* Stitch Fix http://multithreaded.stitchfix.com/blog/
-* Stormpath https://stormpath.com/blog/
-* Strava https://medium.com/strava-engineering/
 * Stride https://blog.stridenyc.com/
-* Stripe https://stripe.com/blog
-* SurveyMonkey https://engineering.surveymonkey.com/
 
 #### T companies
 * Takipi http://blog.takipi.com/
@@ -244,10 +212,9 @@
 * Twitter https://blog.twitter.com/engineering
 * Twitch https://blog.twitch.tv/tagged/engineering
 
-#### U companies
+#### U companies (approved)
 * Uber http://eng.uber.com/
 * Universe https://engineering.universe.com
-* Upday https://upday.github.io/
 
 #### V companies
 * Vena Solutions https://engineering.vena.io/
@@ -260,45 +227,20 @@
 * VNGRS http://blog.vngrs.com/
 * VTS https://buildingvts.com/
 
-#### W companies
+#### W companies (approved)
 * WalmartLabs https://medium.com/walmartlabs/
-* Warby Parker http://www.theoculists.com/
-* Wattpad http://engineering.wattpad.com/
-* Wayfair http://engineering.wayfair.com/
-* Wealthfront http://eng.wealthfront.com/
-* We Are Wizards https://blog.wearewizards.io/
-* WebEngage http://engineering.webengage.com/
 * Wimdu http://tech.wimdu.com/
-* Wingify http://engineering.wingify.com/
-* Wix https://www.wix.engineering/
-* Wolox https://medium.com/@WoloxEngineering/
-* Wombat Security Technologies http://development.wombatsecurity.com/
-* Wonga Technology http://tech.wonga.com/
+* Wix https://www.wix.engineering/blog/
 * WSO2 http://wso2.com/library/
-* WyeWorks https://wyeworks.com/blog/
 
-#### X companies
-* XING https://tech.xing.com/
-* Xmartlabs https://blog.xmartlabs.com/
+#### X companies (approved)
 
-#### Y companies
-* Yahoo https://yahooeng.tumblr.com/
-* Yammer https://medium.com/yammer-engineering
-* Yelp https://engineeringblog.yelp.com/
+#### Y companies (approved)
 * YLD! https://blog.yld.io
 
-#### Z companies
-* Zalando https://tech.zalando.com/blog/
+#### Z companies (approved)
 * ZeeMee https://zeemee.engineering/
-* Zendesk https://medium.com/zendesk-engineering
-* Zendesk(old) https://developer.zendesk.com/blog
-* Zenefits https://engineering.zenefits.com/posts/
 * Zillow https://www.zillow.com/engineering/
-* Zomato https://engineering.zomato.com/
-* Zoosk https://about.zoosk.com/en/engineering-blog/
-* Zulily https://engineering.zulily.com/
-* Zumba http://tech.zumba.com/
-* Zynga https://www.zynga.com/blogs/engineering
 
 ### Individuals/Group Contributors
 
@@ -477,10 +419,7 @@
 * NSHipster http://nshipster.com/
 * Nate Berkopec http://www.nateberkopec.com/
 
-#### O individuals
-* Ofer Zelig http://fullstack.info
-* Ole Begemann https://oleb.net/blog/
-* Oona Räisänen http://www.windytan.com/
+#### O individuals (approved)
 
 #### P individuals
 * Pamela Fox http://blog.pamelafox.org/
