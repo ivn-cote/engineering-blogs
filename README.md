@@ -14,13 +14,6 @@
 | [I](#i-individuals) 	| [J](#j-individuals) 	| [K](#k-individuals) 	| [L](#l-individuals) 	| [M](#m-individuals) 	| [N](#n-individuals) 	| [O](#o-individuals) 	| [P](#p-individuals) 	| [Q](#q-individuals) 	|
 | [R](#r-individuals) 	| [S](#s-individuals) 	| [T](#t-individuals) 	| [U](#u-individuals) 	| [V](#v-individuals) 	| [W](#w-individuals) 	| [X](#x-individuals) 	| [Y](#y-individuals) 	| [Z](#z-individuals)  	|
 
-### [Products/Technologies](#productstechnologies-1)
-|   	|   	|   	|   	|   	|   	|   	|   	|   	|
-|:-:  |:-:  |:-:  |:-:  |:-:  |:-:  |:-:  |:-:  |:-:  |
-| [#](#-technologies) 	| [A](#a-technologies) 	| [B](#b-technologies) 	| [C](#c-technologies) 	| [D](#d-technologies) 	| [E](#e-technologies) 	| [F](#f-technologies) 	| [G](#g-technologies) 	| [H](#h-technologies) 	|
-| [I](#i-technologies) 	| [J](#j-technologies) 	| [K](#k-technologies) 	| [L](#l-technologies) 	| [M](#m-technologies) 	| [N](#n-technologies) 	| [O](#o-technologies) 	| [P](#p-technologies) 	| [Q](#q-technologies) 	|
-| [R](#r-technologies) 	| [S](#s-technologies) 	| [T](#t-technologies) 	| [U](#u-technologies) 	| [V](#v-technologies) 	| [W](#w-technologies) 	| [X](#x-technologies) 	| [Y](#y-technologies) 	| [Z](#z-technologies)  	|
-
 ### Companies
 
 #### \# companies (approved)
@@ -61,19 +54,13 @@
 * Drivy https://drivy.engineering/
 * Dropbox https://blogs.dropbox.com/tech/
 
-#### E companies
-* Ebay http://www.ebaytechblog.com/
-* eFounders https://medium.com/unexpected-token
-* Eharmony http://www.eharmony.com/engineering/
+#### E companies (approved)
 * Elastic https://www.elastic.co/blog/category/engineering
-* Engine Yard https://blog.engineyard.com/
 * Envato https://webuild.envato.com/
 * Erlang Solutions https://www.erlang-solutions.com/blog.html
 * Etsy https://codeascraft.com/
-* Eventbrite https://www.eventbrite.com/engineering/
 * Evernote https://blog.evernote.com/tech/
 * Evil Martians https://evilmartians.com/chronicles/
-* Expedia https://techblog.expedia.com/
 
 #### F companies (approved)
 * Facebook https://code.facebook.com/posts/
@@ -102,11 +89,7 @@
 * Intent Media http://intentmedia.com/blog/
 * InVision http://engineering.invisionapp.com/
 
-#### J companies
-* Jane Street https://blogs.janestreet.com/category/ocaml/
-* JobTeaser https://medium.com/jobteaser-dev-team/
-* Jolly Good Code https://jollygoodcode.github.io/
-* Just Eat https://tech.just-eat.com/
+#### J companies (approved)
 * Jet Technology https://tech.jet.com/
 
 #### K companies (approved)
@@ -125,54 +108,33 @@
 * Netflix https://medium.com/netflix-techblog
 * New York Times https://open.blogs.nytimes.com
 
-#### O companies
-* OCTO Technology https://blog.octo.com/en/
+#### O companies (approved)
 * Okta https://developer.okta.com/blog/
-* OmniTI https://omniti.com/seeds/stop-collaborate-and-listen-notify
 * OpenDNS https://engineering.opendns.com/
-* Opendoor https://labs.opendoor.com/
 * OpenTable http://tech.opentable.com/
 * OpenTable UK http://tech.opentable.co.uk/
-* Oursky https://code.oursky.com/
-* Oyster http://tech.oyster.com/
-* Opensooq http://engineering.opensooq.com/
 
-#### P companies
-* Panorama Education http://engineering.panoramaed.com/
+#### P companies (approved)
 * Paperless Post https://www.paperlesspost.com/blog/teams/tech/
-* Parse http://blog.parse.com/
 * Paypal https://www.paypal-engineering.com/
 * Periscope Data https://www.periscopedata.com/blog
 * PicCollage https://tech.pic-collage.com/
-* Pinterest https://engineering.pinterest.com/blog
-* Pivotal https://engineering.pivotal.io
-* Pluralsight https://www.pluralsight.com/guides
-* Polyvore http://engblog.polyvore.com/
-* Postmark https://postmarkapp.com/blog
+* Pinterest https://medium.com/@Pinterest_Engineering
 * Postmates https://blog.postmates.com/tagged/engineering
 * Prezi https://medium.com/prezi-engineering
-* Prolific Interactive http://blog.prolificinteractive.com/category/development/
-* PubNub: https://www.pubnub.com/blog/
-* PullReview http://blog.8thcolor.com/
 
 #### Q companies (approved)
 * Qubit https://medium.com/qubit-engineering
 
-#### R companies
-* Raizlabs https://www.raizlabs.com/dev/
+#### R companies (approved)
 * RapidAPI http://blog.rapidapi.com/
 * REA Group http://rea.tech/engineering/
-* Realm.io https://realm.io/news/
 * Redbubble http://artplustech.com/
-* Redino http://redino.net/blog/
 * Red Hat https://developerblog.redhat.com
 * Remind http://engineering.remind.com/
 * RetailMeNot https://medium.com/retailmenot-engineering/
-* Rightscale http://eng.rightscale.com/
-* Riot Games https://engineering.riotgames.com/
 * RisingStack https://blog.risingstack.com/
 * Robert Elder Software http://blog.robertelder.org/
-* RoseHosting https://www.rosehosting.com/blog/
 
 #### S companies (approved)
 * Segment https://segment.com/blog/categories/engineering/
@@ -501,48 +463,6 @@
 #### Z individuals
 * Zach Holman https://zachholman.com/
 * Zolmeister https://zolmeister.com/
-
-### Products/Technologies
-
-#### A technologies
-* Android https://android-developers.blogspot.com/
-* Atom.io http://blog.atom.io/
-
-#### C technologies
-* Crystal https://crystal-lang.org/
-
-#### G technologies
-* Go https://blog.golang.org/
-
-#### I technologies
-* IPFS https://ipfs.io/blog/
-
-#### J technologies
-* jOOQ https://blog.jooq.org/
-
-#### K technologies
-* Klipse http://blog.klipse.tech/
-
-#### L technologies
-* Laravel https://laravel-news.com/blog/
-
-#### M technologies
-* Microsoft Edge https://blogs.windows.com/msedgedev/
-
-#### N technologies
-* .NET https://blogs.msdn.microsoft.com/dotnet/
-
-#### R technologies
-* React https://facebook.github.io/react/blog/
-* React Native http://facebook.github.io/react-native/blog/
-* RocksDB http://rocksdb.org/blog
-* Rust https://blog.rust-lang.org/
-
-#### S technologies
-* Swift https://developer.apple.com/swift/blog/
-
-#### V technologies
-* Vertabelo http://www.vertabelo.com/blog
 
 ----
 
