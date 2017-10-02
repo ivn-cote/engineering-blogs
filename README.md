@@ -151,51 +151,28 @@
 * Stack Overflow https://stackoverflow.blog/engineering/
 * Stride https://blog.stridenyc.com/
 
-#### T companies
-* Takipi http://blog.takipi.com/
-* Target https://target.github.io/
+#### T companies (approved)
 * TaskRabbit http://tech.taskrabbit.com/
-* Teamwork https://engineroom.teamwork.com/
-* Teespring http://teespring.engineering/
-* theScore http://techblog.thescore.com/
-* Thoughtbot https://robots.thoughtbot.com/
 * ThoughtWorks https://www.thoughtworks.com/insights
-* Thumbtack https://www.thumbtack.com/engineering/
 * Ticketmaster https://tech.ticketmaster.com/
-* Toptal https://www.toptal.com/blog/
-* TrackMaven http://engineroom.trackmaven.com/
-* Transferwise http://tech.transferwise.com/
-* Trello https://tech.trello.com/
-* TripAdvisor http://engineering.tripadvisor.com/
+* Toptal https://www.toptal.com/developers/blog
 * Trivago http://tech.trivago.com/
-* TrueCar https://www.drivenbycode.com/
 * Tumblr https://engineering.tumblr.com/
-* Twilio https://www.twilio.com/engineering/
 * Twitter https://blog.twitter.com/engineering
-* Twitch https://blog.twitch.tv/tagged/engineering
 
 #### U companies (approved)
 * Uber http://eng.uber.com/
 * Universe https://engineering.universe.com
 
-#### V companies
-* Vena Solutions https://engineering.vena.io/
-* Venmo http://blog.venmo.com/?category=Engineering
-* VersionEye https://blog.versioneye.com/
-* Vevo http://blog.vevo.com/
+#### V companies (approved)
 * Viget https://www.viget.com/articles/category/code#articles
-* Vine http://engineering.vine.co/
 * Vinted http://engineering.vinted.com/
-* VNGRS http://blog.vngrs.com/
-* VTS https://buildingvts.com/
 
 #### W companies (approved)
 * WalmartLabs https://medium.com/walmartlabs/
 * Wimdu http://tech.wimdu.com/
 * Wix https://www.wix.engineering/blog/
 * WSO2 http://wso2.com/library/
-
-#### X companies (approved)
 
 #### Y companies (approved)
 * YLD! https://blog.yld.io
@@ -339,8 +316,6 @@
 * Justin Weiss https://www.justinweiss.com/articles/archives/
 * Juri Strumpflohner https://juristr.com/blog/
 
-#### K individuals
-
 #### L individuals (approved)
 * Lambda the Ultimate http://lambda-the-ultimate.org/
 * Luciano Mammino https://loige.co/
@@ -380,8 +355,6 @@
 * Nikolay Nemshilov http://nikolay.rocks/
 * NSHipster http://nshipster.com/
 * Nate Berkopec http://www.nateberkopec.com/
-
-#### O individuals (approved)
 
 #### P individuals
 * Pamela Fox http://blog.pamelafox.org/
