@@ -183,98 +183,37 @@
 
 ### Individuals/Group Contributors
 
-#### A individuals
-* Aaron Patterson http://tenderlovemaking.com/
-* Abhinaba Basu https://blogs.msdn.com/b/abhinaba/
-* Abu Ashraf Masnun http://masnun.com/
+#### A individuals (approved)
 * Adam Bard https://adambard.com/blog/
-* Adam Leventhal http://dtrace.org/blogs/ahl/
-* Adam Tuliper http://www.adamtuliper.com/
 * Addy Osmani https://addyosmani.com/blog/
-* Adrian Colyer https://blog.acolyer.org/
-* Alan Storm http://alanstorm.com/
-* Alex Rogozhnikov https://arogozhnikov.github.io/
 * Alex Russell https://infrequently.org/
 * Allan MacGregor http://coderoncode.com/
-* Allison Kaptur http://akaptur.com/
-* Anders Aarvik http://aarvik.dk/
-* Andrew Bancroft http://www.andrewcbancroft.com/
-* Andrew Brampton https://blog.bramp.net/
-* Andrew Ray http://blog.andrewray.me/
-* Andrey Akinshin http://aakinshin.net/en/blog/content/
-* Antirez http://antirez.com/latest/0
-* Ariejan de Vroom https://ariejan.net/
-* Ariya Hidayat https://ariya.io/
-* Armin Ronacher http://lucumr.pocoo.org/
 * Axel Rauschmayer http://www.2ality.com/
 
-#### B individuals
-* Bad Concurrency http://bad-concurrency.blogspot.com/
-* Barry Warsaw https://www.wefearchange.org/
-* Bartlomiej Filipek http://www.bfilipek.com/
+#### B individuals (approved)
 * Ben McCormick https://benmccormick.org/
-* Bill the Lizard http://www.billthelizard.com/
-* Bjørn Johansen https://bjornjohansen.no/
 * Blake Erickson https://blog.blakeerickson.com/
-* Blundell's Android Tutorials http://blog.blundellapps.co.uk
-* Brandon Rhodes http://rhodesmill.org/brandon/
-* Brendan Eich https://brendaneich.com/
-* Brendan Gregg http://www.brendangregg.com/blog/
-* Brujo Benavides https://medium.com/@elbrujohalcon
-* Bryan Cantrill http://dtrace.org/blogs/bmc/
 
-#### C individuals
-* Carlos Becker https://carlosbecker.com
+#### C individuals (approved)
 * Chen Hui Jing https://www.chenhuijing.com/blog/
-* Chien Tran http://thelazylog.com/
-* Chris Hager https://www.metachris.com/blog/
 * Chris Wellons http://nullprogram.com/
-* Clay McLeod http://blog.claymcleod.io/
-* Cocoa Is My Girlfriend http://www.cimgf.com/
 * Code with style! https://codewithstyle.info/
-* Codrops https://tympanus.net/codrops/
 
-#### D individuals
-* Daily JS http://dailyjs.com/
-* Daily Tech Video http://dailytechvideo.com/
+#### D individuals (approved)
 * Dan Luu https://danluu.com/
 * Daniel Doubrovkine (dB.) http://code.dblock.org/
-* Dave Atchley http://www.datchley.name/
-* Dave Beazley http://www.dabeaz.com/blog.html
-* Dave Cheney https://dave.cheney.net/
-* David Walsh https://davidwalsh.name/
 * Dean Hume http://deanhume.com/
-* Deborah Digges http://deborah-digges.github.io/
-* Dennis Felsing https://hookrace.net/
-* Dennis Yurichev https://yurichev.com/blog/
-* Dereuromark http://www.dereuromark.de/
-* Discover Meteor https://www.discovermeteor.com/blog
-* Dmitri Pavlutin https://rainsoft.io
-* Domenico Luciani https://domenicoluciani.com
+* Dmitri Pavlutin https://dmitripavlutin.com/
 * Dot Dev (.dev) https://dotdev.co
-* Dragan Gaic http://www.gajotres.net/
-* Drew DeVault https://drewdevault.com/
-* Ducode.org https://ducode.org/tag/tutorial
 
-#### E individuals
-* Edan Kwan http://blog.edankwan.com/
+#### E individuals (approved)
 * Edgar Aroutiounian http://hyegar.com/archive/
-* Elegant Code http://elegantcode.com/
-* Eli Bendersky http://eli.thegreenplace.net/
-* Eric Elliot https://medium.com/javascript-scene/
-* Eric Lippert https://ericlippert.com/
-* Evan Dempsey https://www.smallsurething.com/
-* Evan Hahn http://evanhahn.com/
 * Evan Jones http://www.evanjones.ca/chronological.html
 * Evan Miller http://www.evanmiller.org/
 * Evan Tahler https://blog.evantahler.com/
 
-#### F individuals
-* Fabrizio Branca http://fbrnc.net/
+#### F individuals (approved)
 * Federico Cargnelutti https://blog.fedecarg.com/
-* Federico Tomassetti https://tomassetti.me/
-* Filippo Valsorda https://blog.filippo.io/
-* Freek Van der Herten https://murze.be/
 
 #### G individuals (approved)
 * Gleb Bahmutov https://glebbahmutov.com/blog/
@@ -287,60 +226,22 @@
 * Ian Sommerville http://iansommerville.com/systems-software-and-technology/
 * Idontgetoutmuch's Weblog https://idontgetoutmuch.wordpress.com/
 
-#### J individuals
+#### J individuals (approved)
 * Jacopo Tarantino https://jack.ofspades.com/
-* Jake Wharton http://jakewharton.com/blog
-* Jake Yesbeck http://jakeyesbeck.com/
-* James Hague http://prog21.dadgum.com/
 * James Long http://jlongster.com/archive
-* Jamis Buck http://weblog.jamisbuck.org/
-* Jan Lelis https://idiosyncratic-ruby.com/
-* Jay Fields http://blog.jayfields.com
-* Jeff Atwood https://blog.codinghorror.com/
-* Jeff Preshing http://preshing.com/
 * Jeremy Kun https://jeremykun.com/
-* Jerry Gamblin https://jerrygamblin.com/
-* Jessie Frazelle https://blog.jessfraz.com/
-* Jesus Castello http://www.blackbytes.info/
-* Joe Armstrong http://joearms.github.io/
 * Joel Spolsky https://www.joelonsoftware.com/
-* John Resig https://johnresig.com/category/blog/
-* John Wittenauer http://www.johnwittenauer.net/
-* Jon Skeet https://codeblog.jonskeet.uk/
 * Jonathan Dekhtiar http://www.born2data.com/
-* Jonathan Snook https://snook.ca/
-* Josh Haberman http://blog.reverberate.org/
-* Josh Sherman https://joshtronic.com/
-* Juan Treminio https://jtreminio.com
-* Julia Evans https://jvns.ca/
-* Justin Weiss https://www.justinweiss.com/articles/archives/
-* Juri Strumpflohner https://juristr.com/blog/
 
 #### L individuals (approved)
 * Lambda the Ultimate http://lambda-the-ultimate.org/
 * Luciano Mammino https://loige.co/
 
-#### M individuals
-* Manu Sporny http://manu.sporny.org/
-* Marc Plano-Lesay https://enoent.fr
-* Marco Pivetta http://ocramius.github.io/
-* Marek Majkowski https://idea.popcount.org/
+#### M individuals (approved)
 * Martin Fowler https://martinfowler.com/
-* Mary Rose Cook https://maryrosecook.com/blog/
 * Matt Aimonetti https://matt.aimonetti.net/
-* Matt Cutts https://www.mattcutts.com/blog/
-* Matt Might http://matt.might.net/articles/
-* Matt Warren http://mattwarren.org/
-* Michael Crump http://michaelcrump.net/
-* Michaël Gallego http://www.michaelgallego.fr/articles/
 * Michael Herman http://mherman.org/
-* Miguel Quinones https://www.miqu.me/
-* Mike Ash https://www.mikeash.com/pyblog/
-* Mike Fogus http://blog.fogus.me/
-* Milosz Galazka https://blog.sleeplessbeastie.eu/
-* Miro Cupak https://mirocupak.com/
 * Monica Dinculescu https://meowni.ca/
-* Mykhailo Kozik http://mishadoff.com/
 
 #### N individuals
 * Natasha Murashev https://natashatherobot.com
@@ -416,26 +317,18 @@
 * Todd Motto https://toddmotto.com/
 * T.J. Maher http://adventuresinautomation.blogspot.com/
 
-#### U individuals
+#### U individuals (approved)
 * Una Kravets https://una.im/
-* Undocumented Matlab http://undocumentedmatlab.com/
 
-#### V individuals
-* Vanilla Java http://vanillajava.blogspot.com/
-* Vlad Mihalcea https://vladmihalcea.com/
-
-#### W individuals
-* Wilfred Hughes http://www.wilfred.me.uk/
+#### W individuals (approved)
 * William Kennedy https://www.goinggo.net/
-* Wojtek Gawroński http://www.afronski.pl/
 
-#### Y individuals
+#### Y individuals (approved)
 * Yegor Bugayenko http://www.yegor256.com/
 * Yifan Lu http://yifan.lu/
 
-#### Z individuals
+#### Z individuals (approved)
 * Zach Holman https://zachholman.com/
-* Zolmeister https://zolmeister.com/
 
 ----
 
