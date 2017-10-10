@@ -243,79 +243,23 @@
 * Michael Herman http://mherman.org/
 * Monica Dinculescu https://meowni.ca/
 
-#### N individuals
-* Natasha Murashev https://natashatherobot.com
-* Nelson Elhage https://blog.nelhage.com/
-* Nic Raboy https://blog.nraboy.com/
-* Nick Craver https://nickcraver.com/blog/
-* Nick Desaulniers https://nickdesaulniers.github.io/
+#### N individuals (approved)
 * Nick Galbreath http://www.client9.com/
-* Nicolas Liochon http://blog.thislongrun.com/
-* Nicolai Parlog (CodeFX) http://codefx.org
-* Nikola Brežnjak http://www.nikola-breznjak.com/blog/
-* Nikolay Nemshilov http://nikolay.rocks/
-* NSHipster http://nshipster.com/
-* Nate Berkopec http://www.nateberkopec.com/
 
-#### P individuals
-* Pamela Fox http://blog.pamelafox.org/
-* Pat Shaughnessy http://patshaughnessy.net/
-* Paul Graham http://www.paulgraham.com/articles.html
-* Paul Irish https://www.paulirish.com/
-* Paul Lewis https://aerotwist.com/blog/
-* Peter Norvig http://norvig.com/
-* Peter Steinberger http://petersteinberger.com/
-* Peteris Krumins http://www.catonmat.net/blog/
-* Petr Mitrichev http://petr-mitrichev.blogspot.com/
+#### P individuals (approved)
 * Philip Walton https://philipwalton.com/
-* Philipp Oppermann https://os.phil-opp.com/
-* Piotr Pasich http://piotrpasich.com/
-* Piotr Wittchen http://blog.wittchen.biz.pl/
 
-#### R individuals
-* Rachel Kroll https://rachelbythebay.com/w/
-* Radek Pazdera http://radek.io
-* Radim Řehůřek http://radimrehurek.com/blog/
-* Ramon Fried https://nativeguru.wordpress.com/
-* Ray Wenderlich https://www.raywenderlich.com/
-* Raymond Chen https://blogs.msdn.microsoft.com/oldnewthing/
-* Raymond Hettinger https://rhettinger.wordpress.com/
-* ReactJS News https://reactjsnews.com
-* Real Python https://realpython.com/blog/
-* Reginald Braithwaite http://raganwald.com/#essays
-* Regular Geek http://regulargeek.com/
-* Rémi Delhaye http://blog.rdlh.io/
-* Rob Allen https://akrabat.com/
+#### R individuals (approved)
 * Robert C. Martin http://blog.cleancoder.com/
-* Robin Ward https://eviltrout.com/
-* Robin Wilson http://blog.rtwilson.com/
-* Rudy Huyn http://www.rudyhuyn.com/blog/
-* Rudolf Olah https://neverfriday.com/blog/
-* Ruslan Spivak https://ruslanspivak.com/
 
-#### S individuals
+#### S individuals (approved)
 * Sakib Sami https://www.sakib.ninja
-* Sam Saffron https://samsaffron.com/
-* Scott Hanselman http://www.hanselman.com/blog/
 * Scott Johnson http://www.fuzzyblog.io/blog/
-* Simon Reimler https://devdactic.com/devblog/
-* Srinivas Tamada http://www.9lessons.info/
-* Stack Abuse http://www.stackabuse.com/
-* Stefan Parker http://codebeforethehorse.tumblr.com/
-* Stephen Colebourne http://blog.joda.org/
-* Steve Yegge https://steve-yegge.blogspot.com/
-* Sudhagar http://sudhagar.com/
 * Swizec Teller https://swizec.com/blog/
 
-#### T individuals
+#### T individuals (approved)
 * Tero Parviainen http://teropa.info/
-* That Thing In Swift https://thatthinginswift.com/
-* The Coded Self http://www.thecodedself.com
-* The Daily WTF http://thedailywtf.com/
-* Thomas Young http://upcoder.com
 * Tikhon Jelvis http://jelv.is/blog/
-* Todd Motto https://toddmotto.com/
-* T.J. Maher http://adventuresinautomation.blogspot.com/
 
 #### U individuals (approved)
 * Una Kravets https://una.im/
