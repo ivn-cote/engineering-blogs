@@ -16,11 +16,11 @@
 
 ### Companies
 
-#### \# companies (approved)
+#### \# companies
 * 500px https://developers.500px.com/
 * 8th Light https://8thlight.com/blog/
 
-#### A companies (approved)
+#### A companies
 * Airbnb https://medium.com/airbnb-engineering
 * Airtame https://airtame.engineering
 * Appnexus https://techblog.appnexus.com/
@@ -29,7 +29,7 @@
 * Atlassian https://developer.atlassian.com/blog/
 * Autodesk http://cloudengineering.autodesk.com/blog/
 
-#### B companies (approved)
+#### B companies
 * Babbel https://bytes.babbel.com/en/
 * Badoo https://techblog.badoo.com/
 * Base Lab https://lab.getbase.com/category/engineering/
@@ -37,7 +37,7 @@
 * BenefitFocus https://www.benefitfocus.com/blogs/design-engineering
 * Blogfoster http://engineering.blogfoster.com/
 
-#### C companies (approved)
+#### C companies
 * Capgemini https://capgemini.github.io/
 * CenturyLink https://www.ctl.io/developers/blog
 * Cloudflare https://blog.cloudflare.com/
@@ -46,7 +46,7 @@
 * Codeship https://blog.codeship.com/
 * Crowdfire https://crowdfire.engineering/
 
-#### D companies (approved)
+#### D companies
 * DataFox http://eng.datafox.co/
 * Deezer https://deezer.io/
 * Deliveroo https://deliveroo.engineering/
@@ -54,7 +54,7 @@
 * Drivy https://drivy.engineering/
 * Dropbox https://blogs.dropbox.com/tech/
 
-#### E companies (approved)
+#### E companies
 * Elastic https://www.elastic.co/blog/category/engineering
 * Envato https://webuild.envato.com/
 * Erlang Solutions https://www.erlang-solutions.com/blog.html
@@ -62,18 +62,18 @@
 * Evernote https://blog.evernote.com/tech/
 * Evil Martians https://evilmartians.com/chronicles/
 
-#### F companies (approved)
+#### F companies
 * Facebook https://code.facebook.com/posts/
 * Findmypast http://tech.findmypast.com/
 * Foursquare https://engineering.foursquare.com/
 
-#### G companies (approved)
+#### G companies
 * GitHub https://githubengineering.com/
 * Grammarly https://tech.grammarly.com/blog/index.html
 * Grofers https://lambda.grofers.com/
 * Guardian https://www.theguardian.com/info/developer-blog
 
-#### H companies (approved)
+#### H companies
 * Hashrocket https://hashrocket.com/blog
 * Haus https://engineering.haus.com
 * Heap https://heap.engineering/
@@ -81,7 +81,7 @@
 * HireArt http://code.hireart.com/
 * HomeAway https://tech.homeaway.com/
 
-#### I companies (approved)
+#### I companies
 * IBM developerWorks https://developer.ibm.com/dwblog/
 * Imaginea https://blog.imaginea.com/
 * Inaka http://inaka.net/blog/
@@ -89,32 +89,32 @@
 * Intent Media http://intentmedia.com/blog/
 * InVision http://engineering.invisionapp.com/
 
-#### J companies (approved)
+#### J companies
 * Jet Technology https://tech.jet.com/
 
-#### K companies (approved)
+#### K companies
 * Khan Academy http://engineering.khanacademy.org
 
-#### L companies (approved)
+#### L companies
 * LendingHome https://tech.lendinghome.com/
 * Localytics http://eng.localytics.com/
 
-#### M companies (approved)
+#### M companies
 * Made Tech https://www.madetech.com/blog
 * Monsanto http://engineering.monsanto.com/
 * Moove-it https://blog.moove-it.com/
 
-#### N companies (approved)
+#### N companies
 * Netflix https://medium.com/netflix-techblog
 * New York Times https://open.blogs.nytimes.com
 
-#### O companies (approved)
+#### O companies
 * Okta https://developer.okta.com/blog/
 * OpenDNS https://engineering.opendns.com/
 * OpenTable http://tech.opentable.com/
 * OpenTable UK http://tech.opentable.co.uk/
 
-#### P companies (approved)
+#### P companies
 * Paperless Post https://www.paperlesspost.com/blog/teams/tech/
 * Paypal https://www.paypal-engineering.com/
 * Periscope Data https://www.periscopedata.com/blog
@@ -123,10 +123,10 @@
 * Postmates https://blog.postmates.com/tagged/engineering
 * Prezi https://medium.com/prezi-engineering
 
-#### Q companies (approved)
+#### Q companies
 * Qubit https://medium.com/qubit-engineering
 
-#### R companies (approved)
+#### R companies
 * RapidAPI http://blog.rapidapi.com/
 * REA Group http://rea.tech/engineering/
 * Redbubble http://artplustech.com/
@@ -136,7 +136,7 @@
 * RisingStack https://blog.risingstack.com/
 * Robert Elder Software http://blog.robertelder.org/
 
-#### S companies (approved)
+#### S companies
 * Segment https://segment.com/blog/categories/engineering/
 * Semantics3 https://engineering.semantics3.com
 * Semaphore CI Community https://semaphoreci.com/community
@@ -151,7 +151,7 @@
 * Stack Overflow https://stackoverflow.blog/engineering/
 * Stride https://blog.stridenyc.com/
 
-#### T companies (approved)
+#### T companies
 * TaskRabbit http://tech.taskrabbit.com/
 * ThoughtWorks https://www.thoughtworks.com/insights
 * Ticketmaster https://tech.ticketmaster.com/
@@ -160,118 +160,118 @@
 * Tumblr https://engineering.tumblr.com/
 * Twitter https://blog.twitter.com/engineering
 
-#### U companies (approved)
+#### U companies
 * Uber http://eng.uber.com/
 * Universe https://engineering.universe.com
 
-#### V companies (approved)
+#### V companies
 * Viget https://www.viget.com/articles/category/code#articles
 * Vinted http://engineering.vinted.com/
 
-#### W companies (approved)
+#### W companies
 * WalmartLabs https://medium.com/walmartlabs/
 * Wimdu http://tech.wimdu.com/
 * Wix https://www.wix.engineering/blog/
 * WSO2 http://wso2.com/library/
 
-#### Y companies (approved)
+#### Y companies
 * YLD! https://blog.yld.io
 
-#### Z companies (approved)
+#### Z companies
 * ZeeMee https://zeemee.engineering/
 * Zillow https://www.zillow.com/engineering/
 
 ### Individuals/Group Contributors
 
-#### A individuals (approved)
+#### A individuals
 * Adam Bard https://adambard.com/blog/
 * Addy Osmani https://addyosmani.com/blog/
 * Alex Russell https://infrequently.org/
 * Allan MacGregor http://coderoncode.com/
 * Axel Rauschmayer http://www.2ality.com/
 
-#### B individuals (approved)
+#### B individuals
 * Ben McCormick https://benmccormick.org/
 * Blake Erickson https://blog.blakeerickson.com/
 
-#### C individuals (approved)
+#### C individuals
 * Chen Hui Jing https://www.chenhuijing.com/blog/
 * Chris Wellons http://nullprogram.com/
 * Code with style! https://codewithstyle.info/
 
-#### D individuals (approved)
+#### D individuals
 * Dan Luu https://danluu.com/
 * Daniel Doubrovkine (dB.) http://code.dblock.org/
 * Dean Hume http://deanhume.com/
 * Dmitri Pavlutin https://dmitripavlutin.com/
 * Dot Dev (.dev) https://dotdev.co
 
-#### E individuals (approved)
+#### E individuals
 * Edgar Aroutiounian http://hyegar.com/archive/
 * Evan Jones http://www.evanjones.ca/chronological.html
 * Evan Miller http://www.evanmiller.org/
 * Evan Tahler https://blog.evantahler.com/
 
-#### F individuals (approved)
+#### F individuals
 * Federico Cargnelutti https://blog.fedecarg.com/
 
-#### G individuals (approved)
+#### G individuals
 * Gleb Bahmutov https://glebbahmutov.com/blog/
 * Guilherme Rodrigues https://firstdoit.com/
 
-#### H individuals (approved)
+#### H individuals
 * Hypriot http://blog.hypriot.com/
 
-#### I individuals (approved)
+#### I individuals
 * Ian Sommerville http://iansommerville.com/systems-software-and-technology/
 * Idontgetoutmuch's Weblog https://idontgetoutmuch.wordpress.com/
 
-#### J individuals (approved)
+#### J individuals
 * Jacopo Tarantino https://jack.ofspades.com/
 * James Long http://jlongster.com/archive
 * Jeremy Kun https://jeremykun.com/
 * Joel Spolsky https://www.joelonsoftware.com/
 * Jonathan Dekhtiar http://www.born2data.com/
 
-#### L individuals (approved)
+#### L individuals
 * Lambda the Ultimate http://lambda-the-ultimate.org/
 * Luciano Mammino https://loige.co/
 
-#### M individuals (approved)
+#### M individuals
 * Martin Fowler https://martinfowler.com/
 * Matt Aimonetti https://matt.aimonetti.net/
 * Michael Herman http://mherman.org/
 * Monica Dinculescu https://meowni.ca/
 
-#### N individuals (approved)
+#### N individuals
 * Nick Galbreath http://www.client9.com/
 
-#### P individuals (approved)
+#### P individuals
 * Philip Walton https://philipwalton.com/
 
-#### R individuals (approved)
+#### R individuals
 * Robert C. Martin http://blog.cleancoder.com/
 
-#### S individuals (approved)
+#### S individuals
 * Sakib Sami https://www.sakib.ninja
 * Scott Johnson http://www.fuzzyblog.io/blog/
 * Swizec Teller https://swizec.com/blog/
 
-#### T individuals (approved)
+#### T individuals
 * Tero Parviainen http://teropa.info/
 * Tikhon Jelvis http://jelv.is/blog/
 
-#### U individuals (approved)
+#### U individuals
 * Una Kravets https://una.im/
 
-#### W individuals (approved)
+#### W individuals
 * William Kennedy https://www.goinggo.net/
 
-#### Y individuals (approved)
+#### Y individuals
 * Yegor Bugayenko http://www.yegor256.com/
 * Yifan Lu http://yifan.lu/
 
-#### Z individuals (approved)
+#### Z individuals
 * Zach Holman https://zachholman.com/
 
 ----
