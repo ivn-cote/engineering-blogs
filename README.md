@@ -33,7 +33,7 @@
 * Babbel https://bytes.babbel.com/en/
 * Badoo https://techblog.badoo.com/
 * Base Lab https://lab.getbase.com/category/engineering/
-* Benchling http://benchling.engineering/
+* Benchling https://benchling.engineering/
 * BenefitFocus https://www.benefitfocus.com/blogs/design-engineering
 * Blogfoster http://engineering.blogfoster.com/
 
@@ -43,7 +43,7 @@
 * Cloudflare https://blog.cloudflare.com/
 * Codeclimate http://blog.codeclimate.com/
 * Codelitt https://www.codelitt.com/blog/
-* Codemancers http://crypt.codemancers.com/
+* Codemancers https://crypt.codemancers.com/
 * Codeship https://blog.codeship.com/
 * Crowdfire https://crowdfire.engineering/
 
