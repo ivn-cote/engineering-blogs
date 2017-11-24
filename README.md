@@ -41,6 +41,7 @@
 * Capgemini https://capgemini.github.io/
 * CenturyLink https://www.ctl.io/developers/blog
 * Cloudflare https://blog.cloudflare.com/
+* Codeclimate http://blog.codeclimate.com/
 * Codelitt https://www.codelitt.com/blog/
 * Codemancers http://crypt.codemancers.com/
 * Codeship https://blog.codeship.com/
