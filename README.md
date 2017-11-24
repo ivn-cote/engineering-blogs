@@ -21,6 +21,7 @@
 * 8th Light https://8thlight.com/blog/
 
 #### A companies
+* Addepar https://medium.com/build-addepar
 * Airbnb https://medium.com/airbnb-engineering
 * Airtame https://airtame.engineering
 * Appnexus https://techblog.appnexus.com/
@@ -31,6 +32,7 @@
 
 #### B companies
 * Babbel https://bytes.babbel.com/en/
+* BBC https://medium.com/bbc-design-engineering
 * Badoo https://techblog.badoo.com/
 * Base Lab https://lab.getbase.com/category/engineering/
 * Benchling https://benchling.engineering/
@@ -69,6 +71,7 @@
 * Foursquare https://engineering.foursquare.com/
 
 #### G companies
+* Giphy https://engineering.giphy.com
 * GitHub https://githubengineering.com/
 * Grammarly https://tech.grammarly.com/blog/index.html
 * Grofers https://lambda.grofers.com/
@@ -179,6 +182,7 @@
 * YLD! https://blog.yld.io
 
 #### Z companies
+* Zapier https://zapier.com/engineering
 * ZeeMee https://zeemee.engineering/
 * Zillow https://www.zillow.com/engineering/
 
