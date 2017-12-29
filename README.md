@@ -222,6 +222,7 @@
 
 #### G individuals
 * Gleb Bahmutov https://glebbahmutov.com/blog/
+* Gojko Adzic https://gojko.net/posts.html
 * Guilherme Rodrigues https://firstdoit.com/
 
 #### H individuals
