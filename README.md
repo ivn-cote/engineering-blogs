@@ -182,7 +182,7 @@
 * YLD! https://blog.yld.io
 
 #### Z companies
-* Zapier https://zapier.com/engineering
+* Zapier https://zapier.com/engineering/feeds/latest/
 * ZeeMee https://zeemee.engineering/
 * Zillow https://www.zillow.com/engineering/
 
@@ -269,6 +269,9 @@
 
 #### U individuals
 * Una Kravets https://una.im/
+
+#### V individuals
+* Varun Vachhar http://varun.ca/writing/
 
 #### W individuals
 * William Kennedy https://www.goinggo.net/

@@ -115,6 +115,7 @@
       <outline type="rss" text="Wimdu" title="Wimdu" xmlUrl="http://tech.wimdu.com/rss" htmlUrl="http://tech.wimdu.com/"/>
       <outline type="rss" text="Wix" title="Wix" xmlUrl="https://www.wix.engineering/feed.xml" htmlUrl="https://www.wix.engineering/blog/"/>
       <outline type="rss" text="YLD!" title="YLD!" xmlUrl="https://blog.yld.io/rss/" htmlUrl="https://blog.yld.io"/>
+      <outline type="rss" text="Zapier" title="Zapier" xmlUrl="https://zapier.com/engineering/feeds/latest/" htmlUrl="https://zapier.com/engineering/feeds/latest/"/>
       <outline type="rss" text="ZeeMee" title="ZeeMee" xmlUrl="https://zeemee.engineering/feed" htmlUrl="https://zeemee.engineering/"/>
       <outline type="rss" text="Zillow" title="Zillow" xmlUrl="https://www.zillow.com/engineering/rss" htmlUrl="https://www.zillow.com/engineering/"/>
       <outline type="rss" text="Adam Bard" title="Adam Bard" xmlUrl="https://adambard.com/blog/feed.xml" htmlUrl="https://adambard.com/blog/"/>
