@@ -271,7 +271,7 @@
 * Una Kravets https://una.im/
 
 #### V individuals
-* Varun Vachhar http://varun.ca/writing/
+* Varun Vachhar http://varun.ca/
 
 #### W individuals
 * William Kennedy https://www.goinggo.net/
