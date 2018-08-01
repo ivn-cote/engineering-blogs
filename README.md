@@ -154,6 +154,7 @@
 * Sqreen https://blog.sqreen.io/
 * Stack Overflow https://stackoverflow.blog/engineering/
 * Stride https://blog.stridenyc.com/
+* Survivejs https://survivejs.com/blog/
 
 #### T companies
 * TaskRabbit http://tech.taskrabbit.com/
@@ -221,11 +222,13 @@
 * Federico Cargnelutti https://blog.fedecarg.com/
 
 #### G individuals
+* Gergely Nemeth https://nemethgergely.com/archives/
 * Gleb Bahmutov https://glebbahmutov.com/blog/
 * Gojko Adzic https://gojko.net/posts.html
 * Guilherme Rodrigues https://firstdoit.com/
 
 #### H individuals
+* Hugo Giraudel https://hugogiraudel.com/blog/
 * Hypriot http://blog.hypriot.com/
 
 #### I individuals
@@ -237,6 +240,7 @@
 * James Long http://jlongster.com/archive
 * Jeremy Kun https://jeremykun.com/
 * Joel Spolsky https://www.joelonsoftware.com/
+* John Cook https://www.johndcook.com/blog/
 * Jonathan Dekhtiar http://www.born2data.com/
 
 #### L individuals
@@ -244,6 +248,7 @@
 * Luciano Mammino https://loige.co/
 
 #### M individuals
+* Mark Erikson https://blog.isquaredsoftware.com/
 * Martin Fowler https://martinfowler.com/
 * Matt Aimonetti https://matt.aimonetti.net/
 * Michael Herman http://mherman.org/

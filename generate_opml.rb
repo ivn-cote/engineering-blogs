@@ -65,7 +65,7 @@ matches.each_with_index do |match, index|
     if rss_url.nil?
       rss_url = Feedbag.find(web_url).first
       if rss_url.nil?
-        suggested_paths = ['/rss', '/feed', '/feeds', '/atom.xml', '/feed.xml', '/rss.xml', '.atom']
+        suggested_paths = ['/rss', '/feed', '/feeds', '/index.xml', '/atom.xml', '/feed.xml', '/rss.xml', '.atom']
         suggested_paths.each do |suggested_path|
           rss_url = Feedbag.find("#{web_url.chomp('/')}#{suggested_path}").first
           break if rss_url
